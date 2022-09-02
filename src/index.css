@@ -16,7 +16,7 @@ body {
 
   background-color: #fff;
   color: rgb(5, 5, 5);
-  padding: 50px;
+  
 }
 
 a {
@@ -32,12 +32,6 @@ h1 {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
-
-@media screen and (max-width: 500px) {
-  body {
-    padding: 0;
-  }
 }
 
 @media screen and (max-width: 450px) {
