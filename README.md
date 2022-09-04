@@ -4,7 +4,7 @@
   <br><br>
 </h1>
 
-<p>Cotação das Criptomoedas hoje em tempo real: acompanhe o preço do BitCoin (BTC), Ethereum (ETH), Litecoin (LTC), Ripple (XRP) e dos principais cripto ativos do mercado.</p>
+<p align="center">Cotação das Criptomoedas hoje em tempo real: acompanhe o preço do BitCoin (BTC), Ethereum (ETH), Litecoin (LTC), Ripple (XRP) e dos principais cripto ativos do mercado.</p>
 
 <p align="center"><i>"Seja bem-vindo"</i></p>
 
